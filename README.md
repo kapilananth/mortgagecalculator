@@ -1,2 +1,2 @@
 # mortgagecalculator
-A basic Java Program to calculate Mortgage covering edge cases
+A basic Java Program to calculate Mortgage also covering edge cases
